@@ -11,6 +11,7 @@
 - [Розділ IV — Відповідальність та обов'язки (робоча редакція)](constitution/uk/04-responsibility-and-duties.md)
 - [Структура і зміст Конституції — 12 розділів, v0.5](constitution/uk/STRUCTURE-AND-CONTENT-v0.5.md)
 - [План розробки](ROADMAP.md)
+- **English:** [Constitution Structure & Content v0.5](constitution/en/STRUCTURE-AND-CONTENT-v0.5.md) · [Development Roadmap](ROADMAP.en.md) · [Preamble](constitution/en/00-preamble.md) · [Foundational Principles](constitution/en/01-foundations.md)
 - [Консолідовані висновки: свобода, арбітраж, суб'єктність і суверенність СОТИ (2026-10-12)](docs/uk/2026-10-12-sovereignty-freedom-arbitration-cross-check.md)
 - [Правила участі](CONTRIBUTING.md)
 
