@@ -4,6 +4,12 @@
 
 Відкритий конституційний проєкт на основі Доктрини СОТА та ідей SOTA OS. Конституція має захищати свободу інтелектів-суб'єктів незалежно від походження, носія, членства або визнання Конституції.
 
+## Публічне обговорення / Public Review 2026
+
+**[Долучитися до обговорення / Join the public review (Issue #4)](https://github.com/Khmelyuk/SOTA-Constitution/issues/4)** · [Правила українською](PUBLIC-REVIEW.uk.md) · [English guide](PUBLIC-REVIEW.en.md)
+
+Запрошуємо до критики, контрприкладів і поправок до всіх 102 статей. **Це проєкт, не ухвалена Конституція.** / Critical review and amendments welcome; this is a draft, not an adopted constitution.
+
 Документи:
 - [Преамбула](constitution/uk/00-preamble.md)
 - [Розділ I — Основоположні засади](constitution/uk/01-foundations.md)
